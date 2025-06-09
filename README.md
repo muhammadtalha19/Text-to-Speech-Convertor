@@ -1,3 +1,16 @@
+# Text to Speech Converter
+
+This project is a **Text to Speech Converter** web app built with React for the frontend and AWS Lambda (using Amazon Polly) for the backend.  
+It allows users to enter text, convert it to speech, listen to the generated audio, view a waveform visualization, and download the MP3 file.
+
+**Features:**
+- Convert any text to speech using AWS Polly (Matthew voice).
+- Listen to the generated audio directly in the browser.
+- Download the MP3 audio file.
+- Visualize the audio waveform with WaveSurfer.js.
+- Modern, user-friendly interface.
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
